@@ -22,6 +22,9 @@ class ViewController: UIViewController {
         return true
     }
     
+    func action(){
+        print("asdlkadasjkd ajdsajkldhajsd  aldjaslkdjas ")
+    }
     //MARK: -
     //MARK: Public Utility Methods
     
